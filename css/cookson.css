@@ -1,0 +1,16 @@
+.navbar-default {background: none; border: 0px;}
+.navbar-default .navbar-brand { color: #333;}
+
+.footer {
+/*  position: absolute;
+  bottom: 0;*/
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #fff;
+}
+
+.container .text-muted { margin: 20px 0; }
+.container .text-muted a { color: #666; }
+
+p { font-size: 1.2em;}
