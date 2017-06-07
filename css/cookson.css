@@ -13,4 +13,4 @@
 .container .text-muted { margin: 20px 0; }
 .container .text-muted a { color: #666; }
 
-p { font-size: 1.2em; text-align: justify;}
+p, ul { font-size: 1.2em; text-align: justify;}
